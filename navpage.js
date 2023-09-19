@@ -14,23 +14,3 @@ function loophalaman(a){var e="";nomerkiri=parseInt(numshowpage/2),nomerkiri==nu
 
 
 }
-/*
-     FILE ARCHIVED ON 07:15:47 Jan 07, 2023 AND RETRIEVED FROM THE
-     INTERNET ARCHIVE ON 22:09:06 Sep 19, 2023.
-     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
-
-     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
-     SECTION 108(a)(3)).
-*/
-/*
-playback timings (ms):
-  captures_list: 205.521
-  exclusion.robots: 0.162
-  exclusion.robots.policy: 0.153
-  cdx.remote: 0.066
-  esindex: 0.011
-  LoadShardBlock: 170.891 (3)
-  PetaboxLoader3.datanode: 148.569 (5)
-  load_resource: 460.117 (2)
-  PetaboxLoader3.resolve: 311.594 (2)
-*/
